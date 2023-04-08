@@ -8,6 +8,7 @@
     <br/>
 	<br/>
 	<br/>
+<div>
 <Table border=1 align='center'>
 	<tr>
 		<td>Name: </td>
@@ -39,7 +40,14 @@
 
 	</td>
 	</tr>
+	
 </Table>
+</div>
+	<div>
+		
+		<input type="submit" value="Submit">
+		
+	</div>
 </form>
 </body>
 </html>
